@@ -1,0 +1,2 @@
+# SafeDroid
+Disaster-awareness AndroidApp
